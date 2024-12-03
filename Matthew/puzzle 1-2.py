@@ -1,6 +1,6 @@
-import Matthew.helper as helper
+import helper
 
-PATH = './Puzzle Inputs/puzzle 1-1.txt'
+PATH = './Puzzle Inputs/puzzle 1.txt'
 
 @helper.timer
 def main():
